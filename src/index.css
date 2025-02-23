@@ -122,17 +122,21 @@ body {
     max-height: 120px;
   }
   .upper_text{
+    margin: 2px;
     position: absolute;
     top:10vh;
     font-size: 1.5rem ;
   }
   .lower_text{
+    margin: 2px;
     position: absolute;
+    padding: 2px;
     bottom:20%;
     width: 40%;
-    font-size: 0.5rem;
+    font-size: 0.8rem;
   }
   .middle_text{
+    margin: 2px;
     font-size: 1.8rem;
 
   }
